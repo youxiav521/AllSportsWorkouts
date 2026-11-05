@@ -40,7 +40,7 @@ dependencies = [
     "cairosvg>=2.7.1",
     "certifi==2025.1.31",
     "cloudscraper==1.2.71",
-    "openai==1.88.0",
+    "openai==3.42.1",
     "bs4",
     "html-parser",
 ]
