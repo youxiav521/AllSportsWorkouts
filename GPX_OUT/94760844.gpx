@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <metadata>
+    <name>行者骑行软件</name>
+    <desc>行者骑行软件</desc>
+    <author>
+      <name>行者骑行软件</name>
+      <link href="http://www.imxingzhe.com">
+        <text>行者骑行软件</text>
+      </link>
+    </author>
+    <keywords>行者骑行软件;轨迹</keywords>
+  </metadata>
+  <trk>
+    <name>行者骑行软件</name>
+    <src>xingzhe</src>
+    <number>94760844</number>
+    <type>Ride</type>
+    <trkseg>
+      <trkpt lat="34.328432" lon="108.980346">
+        <time>2021-03-19T07:12:54.695000Z</time>
+      </trkpt>
+      <trkpt lat="34.328368" lon="108.98039">
+        <time>2021-03-19T07:13:13.832000Z</time>
+      </trkpt>
+      <trkpt lat="34.328367" lon="108.9804">
+        <time>2021-03-19T07:13:36.877000Z</time>
+      </trkpt>
+      <trkpt lat="34.328196" lon="108.980495">
+        <time>2021-03-19T07:14:17.810000Z</time>
+      </trkpt>
+      <trkpt lat="34.328073" lon="108.980291">
+        <time>2021-03-19T07:14:44.893000Z</time>
+      </trkpt>
+      <trkpt lat="34.328495" lon="108.980324">
+        <time>2021-03-19T07:15:27.440000Z</time>
+      </trkpt>
+      <trkpt lat="34.328593" lon="108.980098">
+        <time>2021-03-19T07:15:40.601000Z</time>
+      </trkpt>
+      <trkpt lat="34.328774" lon="108.980509">
+        <time>2021-03-19T07:15:42.782000Z</time>
+      </trkpt>
+      <trkpt lat="34.328785" lon="108.980774">
+        <time>2021-03-19T07:15:48.768000Z</time>
+      </trkpt>
+      <trkpt lat="34.328736" lon="108.980843">
+        <time>2021-03-19T07:15:54.765000Z</time>
+      </trkpt>
+      <trkpt lat="34.32861" lon="108.980874">
+        <time>2021-03-19T07:16:02.872000Z</time>
+      </trkpt>
+      <trkpt lat="34.328453" lon="108.980857">
+        <time>2021-03-19T07:16:08.882000Z</time>
+      </trkpt>
+      <trkpt lat="34.328318" lon="108.980835">
+        <time>2021-03-19T07:16:14.881000Z</time>
+      </trkpt>
+      <trkpt lat="34.32816" lon="108.980822">
+        <time>2021-03-19T07:16:20.840000Z</time>
+      </trkpt>
+      <trkpt lat="34.328065" lon="108.980848">
+        <time>2021-03-19T07:16:34.161000Z</time>
+      </trkpt>
+      <trkpt lat="34.327929" lon="108.980781">
+        <time>2021-03-19T07:16:45.161000Z</time>
+      </trkpt>
+      <trkpt lat="34.327936" lon="108.980617">
+        <time>2021-03-19T07:16:55.163000Z</time>
+      </trkpt>
+      <trkpt lat="34.327886" lon="108.980509">
+        <time>2021-03-19T07:17:14.162000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

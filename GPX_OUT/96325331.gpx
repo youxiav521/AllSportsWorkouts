@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <metadata>
+    <name>行者骑行软件</name>
+    <desc>行者骑行软件</desc>
+    <author>
+      <name>行者骑行软件</name>
+      <link href="http://www.imxingzhe.com">
+        <text>行者骑行软件</text>
+      </link>
+    </author>
+    <keywords>行者骑行软件;轨迹</keywords>
+  </metadata>
+  <trk>
+    <name>行者骑行软件</name>
+    <src>xingzhe</src>
+    <number>96325331</number>
+    <type>Ride</type>
+    <trkseg>
+      <trkpt lat="34.306482" lon="109.034693">
+        <time>2021-04-19T21:38:11.829000Z</time>
+      </trkpt>
+      <trkpt lat="34.306516" lon="109.034703">
+        <time>2021-04-19T21:38:40.147000Z</time>
+      </trkpt>
+      <trkpt lat="34.306495" lon="109.03485">
+        <time>2021-04-19T21:39:18.161000Z</time>
+      </trkpt>
+      <trkpt lat="34.306505" lon="109.035015">
+        <time>2021-04-19T21:39:30.147000Z</time>
+      </trkpt>
+      <trkpt lat="34.306549" lon="109.035193">
+        <time>2021-04-19T21:39:43.174000Z</time>
+      </trkpt>
+      <trkpt lat="34.306543" lon="109.035363">
+        <time>2021-04-19T21:39:53.156000Z</time>
+      </trkpt>
+      <trkpt lat="34.306554" lon="109.035564">
+        <time>2021-04-19T21:40:04.160000Z</time>
+      </trkpt>
+      <trkpt lat="34.306596" lon="109.03575">
+        <time>2021-04-19T21:40:13.155000Z</time>
+      </trkpt>
+      <trkpt lat="34.306591" lon="109.035926">
+        <time>2021-04-19T21:40:27.295000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

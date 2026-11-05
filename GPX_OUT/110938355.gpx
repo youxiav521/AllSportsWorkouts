@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <metadata>
+    <name>行者骑行软件</name>
+    <desc>行者骑行软件</desc>
+    <author>
+      <name>行者骑行软件</name>
+      <link href="http://www.imxingzhe.com">
+        <text>行者骑行软件</text>
+      </link>
+    </author>
+    <keywords>行者骑行软件;轨迹</keywords>
+  </metadata>
+  <trk>
+    <name>行者骑行软件</name>
+    <src>xingzhe</src>
+    <number>110938355</number>
+    <type>Ride</type>
+    <trkseg>
+      <trkpt lat="34.32824" lon="108.980216">
+        <time>2022-03-21T05:47:20.406000Z</time>
+      </trkpt>
+      <trkpt lat="34.328336" lon="108.980255">
+        <time>2022-03-21T05:47:43.125000Z</time>
+      </trkpt>
+      <trkpt lat="34.328312" lon="108.980245">
+        <time>2022-03-21T05:48:01.419000Z</time>
+      </trkpt>
+      <trkpt lat="34.328348" lon="108.98026">
+        <time>2022-03-21T05:50:12.893000Z</time>
+      </trkpt>
+      <trkpt lat="34.328366" lon="108.980267">
+        <time>2022-03-21T05:50:31.129000Z</time>
+      </trkpt>
+      <trkpt lat="34.328309" lon="108.980242">
+        <time>2022-03-21T05:50:37.549000Z</time>
+      </trkpt>
+      <trkpt lat="34.328317" lon="108.980243">
+        <time>2022-03-21T05:50:49.565000Z</time>
+      </trkpt>
+      <trkpt lat="34.328234" lon="108.980444">
+        <time>2022-03-21T05:51:03.137000Z</time>
+      </trkpt>
+      <trkpt lat="34.328234" lon="108.980444">
+        <time>2022-03-21T05:51:09.131000Z</time>
+      </trkpt>
+      <trkpt lat="34.328234" lon="108.980444">
+        <time>2022-03-21T05:51:15.138000Z</time>
+      </trkpt>
+      <trkpt lat="34.328234" lon="108.980444">
+        <time>2022-03-21T05:51:21.138000Z</time>
+      </trkpt>
+      <trkpt lat="34.328234" lon="108.980444">
+        <time>2022-03-21T05:51:27.134000Z</time>
+      </trkpt>
+      <trkpt lat="34.328234" lon="108.980444">
+        <time>2022-03-21T05:51:33.135000Z</time>
+      </trkpt>
+      <trkpt lat="34.328234" lon="108.980444">
+        <time>2022-03-21T05:51:39.138000Z</time>
+      </trkpt>
+      <trkpt lat="34.328234" lon="108.980444">
+        <time>2022-03-21T05:51:45.137000Z</time>
+      </trkpt>
+      <trkpt lat="34.328234" lon="108.980444">
+        <time>2022-03-21T05:51:51.137000Z</time>
+      </trkpt>
+      <trkpt lat="34.328234" lon="108.980444">
+        <time>2022-03-21T05:51:57.133000Z</time>
+      </trkpt>
+      <trkpt lat="34.328234" lon="108.980444">
+        <time>2022-03-21T05:52:03.136000Z</time>
+      </trkpt>
+      <trkpt lat="34.328234" lon="108.980444">
+        <time>2022-03-21T05:52:09.130000Z</time>
+      </trkpt>
+      <trkpt lat="34.328234" lon="108.980444">
+        <time>2022-03-21T05:52:15.137000Z</time>
+      </trkpt>
+      <trkpt lat="34.328234" lon="108.980444">
+        <time>2022-03-21T05:52:24.138000Z</time>
+      </trkpt>
+      <trkpt lat="34.328234" lon="108.980444">
+        <time>2022-03-21T05:52:30.134000Z</time>
+      </trkpt>
+      <trkpt lat="34.328234" lon="108.980444">
+        <time>2022-03-21T05:52:36.138000Z</time>
+      </trkpt>
+      <trkpt lat="34.328234" lon="108.980444">
+        <time>2022-03-21T05:52:42.136000Z</time>
+      </trkpt>
+      <trkpt lat="34.328395" lon="108.980381">
+        <time>2022-03-21T05:52:57.849000Z</time>
+      </trkpt>
+      <trkpt lat="34.32834" lon="108.980585">
+        <time>2022-03-21T05:53:30.968000Z</time>
+      </trkpt>
+      <trkpt lat="34.328096" lon="108.980486">
+        <time>2022-03-21T05:53:49.792000Z</time>
+      </trkpt>
+      <trkpt lat="34.32874" lon="108.98046">
+        <time>2022-03-21T05:54:06.774000Z</time>
+      </trkpt>
+      <trkpt lat="34.328816" lon="108.980236">
+        <time>2022-03-21T05:54:30.871000Z</time>
+      </trkpt>
+      <trkpt lat="34.328917" lon="108.980359">
+        <time>2022-03-21T05:54:47.359000Z</time>
+      </trkpt>
+      <trkpt lat="34.328794" lon="108.980445">
+        <time>2022-03-21T05:54:59.211000Z</time>
+      </trkpt>
+      <trkpt lat="34.328828" lon="108.980506">
+        <time>2022-03-21T05:55:07.158000Z</time>
+      </trkpt>
+      <trkpt lat="34.328838" lon="108.980356">
+        <time>2022-03-21T05:55:29.170000Z</time>
+      </trkpt>
+      <trkpt lat="34.328901" lon="108.980425">
+        <time>2022-03-21T05:56:19.149000Z</time>
+      </trkpt>
+      <trkpt lat="34.328929" lon="108.98037">
+        <time>2022-03-21T05:56:40.159000Z</time>
+      </trkpt>
+      <trkpt lat="34.328929" lon="108.980333">
+        <time>2022-03-21T05:57:20.161000Z</time>
+      </trkpt>
+      <trkpt lat="34.328804" lon="108.980434">
+        <time>2022-03-21T05:57:30.157000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

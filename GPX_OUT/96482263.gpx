@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <metadata>
+    <name>行者骑行软件</name>
+    <desc>行者骑行软件</desc>
+    <author>
+      <name>行者骑行软件</name>
+      <link href="http://www.imxingzhe.com">
+        <text>行者骑行软件</text>
+      </link>
+    </author>
+    <keywords>行者骑行软件;轨迹</keywords>
+  </metadata>
+  <trk>
+    <name>行者骑行软件</name>
+    <src>xingzhe</src>
+    <number>96482263</number>
+    <type>Ride</type>
+    <trkseg>
+      <trkpt lat="34.328277" lon="108.980272">
+        <time>2021-04-23T04:58:02.717000Z</time>
+      </trkpt>
+      <trkpt lat="34.328315" lon="108.980265">
+        <time>2021-04-23T04:58:17.947000Z</time>
+      </trkpt>
+      <trkpt lat="34.328373" lon="108.980326">
+        <time>2021-04-23T04:58:52.140000Z</time>
+      </trkpt>
+      <trkpt lat="34.328357" lon="108.980383">
+        <time>2021-04-23T04:59:01.744000Z</time>
+      </trkpt>
+      <trkpt lat="34.328468" lon="108.980397">
+        <time>2021-04-23T04:59:23.106000Z</time>
+      </trkpt>
+      <trkpt lat="34.328582" lon="108.980615">
+        <time>2021-04-23T04:59:38.770000Z</time>
+      </trkpt>
+      <trkpt lat="34.328233" lon="108.980751">
+        <time>2021-04-23T04:59:54.122000Z</time>
+      </trkpt>
+      <trkpt lat="34.328381" lon="108.980615">
+        <time>2021-04-23T05:00:03.452000Z</time>
+      </trkpt>
+      <trkpt lat="34.328368" lon="108.980571">
+        <time>2021-04-23T05:00:12.706000Z</time>
+      </trkpt>
+      <trkpt lat="34.328584" lon="108.980336">
+        <time>2021-04-23T05:00:42.304000Z</time>
+      </trkpt>
+      <trkpt lat="34.328669" lon="108.980445">
+        <time>2021-04-23T05:00:56.059000Z</time>
+      </trkpt>
+      <trkpt lat="34.328641" lon="108.980316">
+        <time>2021-04-23T05:01:22.008000Z</time>
+      </trkpt>
+      <trkpt lat="34.328002" lon="108.98046">
+        <time>2021-04-23T05:01:59.323000Z</time>
+      </trkpt>
+      <trkpt lat="34.328347" lon="108.980399">
+        <time>2021-04-23T05:02:15.689000Z</time>
+      </trkpt>
+      <trkpt lat="34.328342" lon="108.980278">
+        <time>2021-04-23T05:02:46.204000Z</time>
+      </trkpt>
+      <trkpt lat="34.328393" lon="108.980279">
+        <time>2021-04-23T05:03:38.516000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
