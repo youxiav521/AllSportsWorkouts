@@ -1,10 +1,9 @@
 // Constants
 const MAPBOX_TOKEN =
-  // For security reasons, please avoid using the default public token provided by Mapbox as much as possible.
-  // Instead, manually add a new token and apply URL restrictions.
-  // (please refer to https://github.com/yihong0618/running_page/issues/643#issuecomment-2042668580)
-  // Set your own Mapbox token (e.g. via GitHub Actions secret MAPBOX_TOKEN, see config.yml).
-  '';
+  // Injected at build time from the GitHub Actions secret MAPBOX_TOKEN
+  // (VITE_MAPBOX_TOKEN, see .github/workflows/gh-pages.yml).
+  // Falls back to '' when the secret is not set (e.g. local dev).
+  import.meta.env.VITE_MAPBOX_TOKEN || '';
 const MUNICIPALITY_CITIES_ARR = [
   '北京市',
   '上海市',
