@@ -346,5 +346,8 @@ jobs:
       data_cache_prefix: ${{needs.sync.outputs.DATA_CACHE_PREFIX}}
     secrets:
       MAPBOX_TOKEN: ${{ secrets.MAPBOX_TOKEN }}
+      SITE_OWNER: ${{ secrets.SITE_OWNER }}
+      SITE_URL: ${{ secrets.SITE_URL }}
+      SITE_LOGO: ${{ secrets.SITE_LOGO }}
     needs:
       - sync
