@@ -30,9 +30,9 @@ const logoName = import.meta.env.VITE_SITE_LOGO_NAME || 'favicon.png';
 const data: ISiteMetadataResult = {
   siteTitle: siteOwner ? `${siteOwner}'s Workouts Map` : 'Workouts Map',
   siteUrl,
-  // Logo is read from public/images/<logoName>. BASE_URL carries the deploy
-  // path prefix (e.g. /allWorkouts/), so it works both locally and on GitHub Pages.
-  logo: `${import.meta.env.BASE_URL}images/${logoName}`,
+  // Logo is read from public/images/<logoName>. getBasePath() carries the deploy
+  // path prefix (e.g. /allWorkouts), so it works both locally and on GitHub Pages.
+  logo: `${getBasePath()}/images/${logoName}`,
   description: 'Personal site and blog',
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [
