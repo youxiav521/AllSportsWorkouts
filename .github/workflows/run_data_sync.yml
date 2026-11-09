@@ -348,6 +348,6 @@ jobs:
       MAPBOX_TOKEN: ${{ secrets.MAPBOX_TOKEN }}
       SITE_OWNER: ${{ secrets.SITE_OWNER }}
       SITE_URL: ${{ secrets.SITE_URL }}
-      SITE_LOGO: ${{ secrets.SITE_LOGO }}
+      SITE_LOGO_NAME: ${{ secrets.SITE_LOGO_NAME }}
     needs:
       - sync

@@ -8,8 +8,8 @@ interface ImportMetaEnv {
   readonly VITE_SITE_OWNER?: string;
   /** Site URL, injected at build time from the GitHub Actions secret SITE_URL. */
   readonly VITE_SITE_URL?: string;
-  /** Site logo URL, injected at build time from the GitHub Actions secret SITE_LOGO. */
-  readonly VITE_SITE_LOGO?: string;
+  /** Site logo image filename (e.g. 1.jpg) under public/images/, from secret SITE_LOGO_NAME. */
+  readonly VITE_SITE_LOGO_NAME?: string;
   /** GitHub repository (owner/name), injected at build time from github.repository. */
   // readonly VITE_GITHUB_REPO?: string;
 }

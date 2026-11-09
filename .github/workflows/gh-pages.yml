@@ -29,7 +29,7 @@ on:
         required: false
       SITE_URL:
         required: false
-      SITE_LOGO:
+      SITE_LOGO_NAME:
         required: false
 
 # Allow one concurrent deployment
@@ -108,7 +108,7 @@ jobs:
           VITE_MAPBOX_TOKEN: ${{ secrets.MAPBOX_TOKEN }}
           VITE_SITE_OWNER: ${{ secrets.SITE_OWNER }}
           VITE_SITE_URL: ${{ secrets.SITE_URL }}
-          VITE_SITE_LOGO: ${{ secrets.SITE_LOGO }}
+          VITE_SITE_LOGO_NAME: ${{ secrets.SITE_LOGO_NAME }}
         run: PATH_PREFIX=/$REPO_NAME pnpm build
 
       - name: Upload artifact
